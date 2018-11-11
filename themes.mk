@@ -20,6 +20,14 @@ PRODUCT_PACKAGES += \
     QStileTeardrop \
     QStileWavey
 
+# QS header styles
+PRODUCT_PACKAGES += \
+    QSHeaderBlack \
+    QSHeaderGrey \
+    QSHeaderLightGrey \
+    QSHeaderAccent \
+    QSHeaderTransparent
+
 # Themes
 PRODUCT_PACKAGES += \
     GBoardDark \
