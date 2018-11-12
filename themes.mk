@@ -3,14 +3,21 @@ PRODUCT_PACKAGES += \
     QStileCircleTrim \
     QStileDefault \
     QStileDualToneCircle \
-    QStileSquircleTrim
+    QStileOreo \
+    QStileOreoCircleTrim \
+    QStileOreoSquircleTrim \
+    QStileSquircleTrim \
+    QStileMountain \
+    QStileCircleDualTone \
+    QStileCircleGradient \
+    QStileDottedCircle \
+    QStileNinja \
+    QStilePokesign \
+    QStileWavey
 
 # Themes
 PRODUCT_PACKAGES += \
     GBoardDark \
-    GBoardLight \
-    GoogleIntelligenceSenseDark \
-    GoogleIntelligenceSenseLight \
     SettingsDark \
     SettingsIntelligenceDark \
     SystemDark
