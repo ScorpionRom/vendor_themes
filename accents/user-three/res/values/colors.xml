@@ -19,9 +19,9 @@
 <resources>
 
     <!-- Accent -->
-    <color name="accent_device_default_700">#FF1976D2</color>
-    <color name="accent_device_default_light">#FF1976D2</color>
-    <color name="accent_device_default_dark">#FF1976D2</color>
+    <color name="accent_device_default_700">#FF00C853</color>
+    <color name="accent_device_default_light">#FF00C853</color>
+    <color name="accent_device_default_dark">#FF00C853</color>
 
     <!-- Fastscroller -->
     <color name="fastscroller_text_color">#FFFFFFFF</color>
