@@ -25,5 +25,5 @@ PRODUCT_PACKAGES += \
     GBoardDark \
     SettingsDark \
     SettingsIntelligenceDark \
-    SystemDark
-
+    SystemDark \
+    WellbeingDark
