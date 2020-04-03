@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-SCORPION_DEVICE := $(patsubst %f,%,$(subst scorpion_,,$(TARGET_PRODUCT)))
+SCORPION_DEVICE := $(patsubst %f,%,$(subst scorpion_,,$(SCORPION_BUILD)))
 
 ifneq ($(filter oneplus3,$(SCORPION_DEVICE)),)
 DEVICE_PACKAGE_OVERLAYS += vendor/themes/wallpapers/1080x1920/

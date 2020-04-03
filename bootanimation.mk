@@ -1,5 +1,5 @@
 # Boot Animation
-scorpion_device := $(patsubst %f,%,$(subst scorpion_,,$(TARGET_PRODUCT)))
+scorpion_device := $(patsubst %f,%,$(subst scorpion_,,$(SCORPION_BUILD)))
 
 PRODUCT_PACKAGES += \
     boot_theme \
