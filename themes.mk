@@ -4,3 +4,8 @@ PRODUCT_PACKAGES += \
     PitchBlackSystemUIOverlay \
     SolarizedDarkSystemOverlay \
     SolarizedDarkSystemUIOverlay
+
+# Gapps
+#$(call inherit-product-if-exists, vendor/pixelgapps/pixel-gapps.mk)
+
+PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += vendor/themes/backgrounds
