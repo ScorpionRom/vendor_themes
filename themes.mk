@@ -3,7 +3,9 @@ PRODUCT_PACKAGES += \
     PitchBlackSystemOverlay \
     PitchBlackSystemUIOverlay \
     SolarizedDarkSystemOverlay \
-    SolarizedDarkSystemUIOverlay
+    SolarizedDarkSystemUIOverlay \
+    ScorpionClearSystemOverlay \
+    ScorpionClearSystemUIOverlay
 
 # Gapps
 #$(call inherit-product-if-exists, vendor/pixelgapps/pixel-gapps.mk)
