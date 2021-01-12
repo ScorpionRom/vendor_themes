@@ -31,5 +31,7 @@
     <color name="Teal_700">#ff5a9af8</color>
     <color name="Teal_800">#ff5795f0</color>
 
+    <!-- DU-Themes inactive color -->
+    <color name="du_themes_qs_inactive_color">#FFd3d3d3</color>
 </resources>
 
