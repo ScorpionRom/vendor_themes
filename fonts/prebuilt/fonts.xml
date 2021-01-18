@@ -36,6 +36,10 @@
         <font weight="700" style="italic">Roboto-BoldItalic.ttf</font>
     </family>
 
+    <family name="linotte">
+        <font weight="300" style="normal">Linotte.ttf</font>
+    </family>
+
     <!-- Note that aliases must come after the fonts they reference. -->
     <alias name="sans-serif-thin" to="sans-serif" weight="100" />
     <alias name="sans-serif-light" to="sans-serif" weight="300" />
