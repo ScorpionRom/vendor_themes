@@ -9,7 +9,10 @@ PRODUCT_PACKAGES += \
     FontOneplusSlateSource \
     FontSamsungOneSourceOverlay \
     FontFiraSansSourceOverlay \
-    FontUbuntuSourceOverlay
+    FontUbuntuSourceOverlay \
+    FontLinotteOverlay \
+    FontStoropiaSourceOverlay \
+    FontExotwoSourceOverlay 
 
 PRODUCT_COPY_FILES += \
     vendor/themes/fonts/prebuilt/Cagliostro-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Cagliostro-Regular.ttf \
@@ -35,4 +38,7 @@ PRODUCT_COPY_FILES += \
     vendor/themes/fonts/prebuilt/Ubuntu-BoldItalic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Ubuntu-BoldItalic.ttf \
     vendor/themes/fonts/prebuilt/Ubuntu-Medium.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Ubuntu-Medium.ttf \
     vendor/themes/fonts/prebuilt/Ubuntu-MediumItalic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Ubuntu-MediumItalic.ttf \
-    vendor/themes/fonts/prebuilt/Ubuntu-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Ubuntu-Regular.ttf
+    vendor/themes/fonts/prebuilt/Ubuntu-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Ubuntu-Regular.ttf \
+    vendor/themes/fonts/prebuilt/Linotte.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Linotte.ttf \
+    vendor/themes/fonts/prebuilt/Storopia.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Storopia.ttf \
+    vendor/themes/fonts/prebuilt/Exotwo.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Exotwo.ttf
