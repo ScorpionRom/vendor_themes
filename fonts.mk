@@ -1,6 +1,7 @@
 # Fonts
 PRODUCT_PACKAGES += \
     fonts.xml \
+    FontNotoSerifSourceOverlay \
     FontCagliostroSourceOverlay \
     FontLGSmartGothicSourceOverlay \
     FontRosemarySourceOverlay \
