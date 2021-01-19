@@ -40,6 +40,16 @@
         <font weight="300" style="normal">Linotte.ttf</font>
     </family>
 
+    <family name="rubik">
+      <font weight="400" style="normal">Rubik-Regular.ttf</font>
+      <font weight="400" style="italic">Rubik-Italic.ttf</font>
+      <font weight="500" style="normal">Rubik-Medium.ttf</font>
+      <font weight="500" style="italic">Rubik-MediumItalic.ttf</font>
+      <font weight="700" style="normal">Rubik-Bold.ttf</font>
+      <font weight="700" style="italic">Rubik-BoldItalic.ttf</font>
+    </family>
+    <alias name="rubik-medium" to="rubik" weight="500" />
+
     <!-- Note that aliases must come after the fonts they reference. -->
     <alias name="sans-serif-thin" to="sans-serif" weight="100" />
     <alias name="sans-serif-light" to="sans-serif" weight="300" />
