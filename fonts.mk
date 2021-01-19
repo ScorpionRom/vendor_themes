@@ -13,7 +13,8 @@ PRODUCT_PACKAGES += \
     FontUbuntuSourceOverlay \
     FontLinotteOverlay \
     FontStoropiaSourceOverlay \
-    FontExotwoSourceOverlay 
+    FontExotwoSourceOverlay \
+    FontRubikRubikOverlay 
 
 PRODUCT_COPY_FILES += \
     vendor/themes/fonts/prebuilt/Cagliostro-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Cagliostro-Regular.ttf \
