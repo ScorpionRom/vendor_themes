@@ -14,7 +14,8 @@ PRODUCT_PACKAGES += \
     FontLinotteOverlay \
     FontStoropiaSourceOverlay \
     FontExotwoSourceOverlay \
-    FontRubikRubikOverlay 
+    FontRubikRubikOverlay \
+    FontComicSansSourceOverlay 
 
 PRODUCT_COPY_FILES += \
     vendor/themes/fonts/prebuilt/Cagliostro-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Cagliostro-Regular.ttf \
@@ -43,4 +44,5 @@ PRODUCT_COPY_FILES += \
     vendor/themes/fonts/prebuilt/Ubuntu-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Ubuntu-Regular.ttf \
     vendor/themes/fonts/prebuilt/Linotte.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Linotte.ttf \
     vendor/themes/fonts/prebuilt/Storopia.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Storopia.ttf \
-    vendor/themes/fonts/prebuilt/Exotwo.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Exotwo.ttf
+    vendor/themes/fonts/prebuilt/Exotwo.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Exotwo.ttf \
+    vendor/themes/fonts/prebuilt/Comic_Sans.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Comic_Sans.ttf
