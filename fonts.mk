@@ -15,7 +15,8 @@ PRODUCT_PACKAGES += \
     FontStoropiaSourceOverlay \
     FontExotwoSourceOverlay \
     FontRubikRubikOverlay \
-    FontComicSansSourceOverlay 
+    FontComicSansSourceOverlay \
+    FontSFProOverlay 
 
 PRODUCT_COPY_FILES += \
     vendor/themes/fonts/prebuilt/Cagliostro-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Cagliostro-Regular.ttf \
@@ -45,4 +46,8 @@ PRODUCT_COPY_FILES += \
     vendor/themes/fonts/prebuilt/Linotte.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Linotte.ttf \
     vendor/themes/fonts/prebuilt/Storopia.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Storopia.ttf \
     vendor/themes/fonts/prebuilt/Exotwo.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Exotwo.ttf \
-    vendor/themes/fonts/prebuilt/Comic_Sans.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Comic_Sans.ttf
+    vendor/themes/fonts/prebuilt/Comic_Sans.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Comic_Sans.ttf \
+    vendor/themes/fonts/prebuilt/SFProDisplay-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/SFProDisplay-Regular.ttf \
+    vendor/themes/fonts/prebuilt/SFProDisplay-Medium.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/SFProDisplay-Medium.ttf \
+    vendor/themes/fonts/prebuilt/SFProText-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/SFProText-Regular.ttf \
+    vendor/themes/fonts/prebuilt/SFProText-Medium.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/SFProText-Medium.ttf 

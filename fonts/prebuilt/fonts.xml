@@ -64,6 +64,18 @@
     <alias name="fantasy" to="comicsans" />
     <alias name="ITC Stone Serif" to="comicsans" />
 
+    <family name="san-francisco-pro-display">
+      <font weight="400" style="normal">SFProDisplay-Regular.ttf</font>
+      <font weight="500" style="normal">SFProDisplay-Medium.ttf</font>
+    </family>
+    <alias name="san-francisco-pro-display-medium" to="san-francisco-pro-display" weight="500" />
+
+    <family name="san-francisco-pro-text">
+      <font weight="400" style="normal">SFProText-Regular.ttf</font>
+      <font weight="500" style="normal">SFProText-Medium.ttf</font>
+    </family>
+    <alias name="san-francisco-pro-text-medium" to="san-francisco-pro-text" weight="500" />
+
     <!-- Note that aliases must come after the fonts they reference. -->
     <alias name="sans-serif-thin" to="sans-serif" weight="100" />
     <alias name="sans-serif-light" to="sans-serif" weight="300" />
