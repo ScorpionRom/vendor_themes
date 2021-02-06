@@ -5,7 +5,9 @@ PRODUCT_PACKAGES += \
     SolarizedDarkSystemOverlay \
     SolarizedDarkSystemUIOverlay \
     ScorpionClearSystemOverlay \
-    ScorpionClearSystemUIOverlay
+    ScorpionClearSystemUIOverlay \
+    MaterialOceanSystemOverlay \
+    MaterialOceanSystemUIOverlay
 
 # Gapps
 #$(call inherit-product-if-exists, vendor/pixelgapps/pixel-gapps.mk)
