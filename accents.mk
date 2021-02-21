@@ -23,6 +23,8 @@ PRODUCT_PACKAGES += \
     AccentColorSpaceOverlay \
     AccentColorTealOverlay \
     AccentColorYellowOverlay \
+    AccentColorScorpionBlueOverlay \
     AccentColorScorpionGreenOverlay \
     AccentColorScorpionPurpleOverlay \
-    AccentColorScorpionRedOverlay
+    AccentColorScorpionRedOverlay \
+    AccentColorScorpionYellowOverlay
